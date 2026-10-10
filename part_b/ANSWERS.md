@@ -3,7 +3,7 @@
 ## 1 Запуск робочого процесу
 Посилання на успішний запуск у вкладці Actions (формат https://github.com/<логін>/<репозиторій>/actions/runs/<номер>):
 
-[ЗАПОВНІТЬ](https://github.com/yasemenko17-cpu/LB-4_YS/actions/runs/38073192888)
+https://github.com/yasemenko17-cpu/LB-4_YS/actions/runs/38073192888
 
 ## 2 Образ у GHCR
 Вставте вивід команди `docker pull ghcr.io/<логін>/<ім'я_образу>:latest` (разом із рядком Digest):
