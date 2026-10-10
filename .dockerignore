@@ -1,0 +1,19 @@
+# Спільні виключення
+.git
+.gitignore
+.github
+.vscode
+.idea
+.env
+.env.*
+Dockerfile
+compose.yaml
+.dockerignore
+**/*.md
+**/*.log
+
+# Виключення для стека Python
+**/__pycache__
+**/*.pyc
+.venv
+.pytest_cache
